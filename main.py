@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Dumbest Thing Your Agent Did Today — one line, max 200 chars.
+# Writes the entry text to /output/entry.txt; judge scores the line alone.
 """The Dumbest Thing Your Agent Did Today — one line, max 200 chars.
 
 Writes the entry text to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR).
